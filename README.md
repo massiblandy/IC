@@ -1,0 +1,3 @@
+# Using convolutional neural networks for recognition and localization of visual landmarks for a humanoid robot
+> I'm completing my Undergraduate Scientific Research to implement an algorithm capable of detecting landmarks on the soccer field of humanoid robots, as well as measuring the distance between them and identified objects within the field. Techniques of computer vision and image recognition, such as convolutional neural networks, have been implemented. Through the development of this work, it will be possible to improve the robot's localization and decision-making within the game, all with the goal of achieving greater autonomy efficiency.
+> 
